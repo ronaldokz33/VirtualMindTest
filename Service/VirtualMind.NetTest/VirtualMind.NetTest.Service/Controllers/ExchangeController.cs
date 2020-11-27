@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
@@ -25,6 +26,7 @@ namespace VirtualMind.NetTest.Service.Controllers
 
         #endregion
 
+        //[Authorize]
         [HttpPost]
         [Route("purchase")]
         public IActionResult Purchase(Purchase pObject)
@@ -37,6 +39,7 @@ namespace VirtualMind.NetTest.Service.Controllers
             return Ok(purchaseManager.Insert(pObject));
         }
 
+        //[Authorize]
         [HttpGet]
         [Route("purchases")]
         public ActionResult<IList<Purchase>> Purchases()
@@ -44,6 +47,7 @@ namespace VirtualMind.NetTest.Service.Controllers
             return Ok(purchaseManager.ListForLookup(new Purchase() { }));
         }
 
+        //[Authorize]
         [HttpGet]
         [Route("quote/{currency=}")]
         public ActionResult<Dictionary<string, decimal>> Quote([FromRoute] string currency)

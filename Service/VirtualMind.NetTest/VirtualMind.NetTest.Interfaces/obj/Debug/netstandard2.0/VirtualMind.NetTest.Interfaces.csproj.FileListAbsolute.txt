@@ -10,3 +10,15 @@ D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMi
 D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\obj\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.csproj.CopyComplete
 D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\obj\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.dll
 D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\obj\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.deps.json
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\bin\Debug\netstandard2.0\VirtualMind.NetTest.VO.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\bin\Debug\netstandard2.0\VirtualMind.NetTest.VO.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\obj\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.csprojAssemblyReference.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\obj\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.AssemblyInfoInputs.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\obj\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.AssemblyInfo.cs
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\obj\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.csproj.CoreCompileInputs.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\obj\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.csproj.CopyComplete
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\obj\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Interfaces\obj\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.pdb

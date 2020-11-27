@@ -9,7 +9,7 @@ namespace VirtualMind.NetTest.Arquitetura.Library.Util.Security
 {
     public class Token
     {
-        public static UserResponseToken GerarToken(Dictionary<string, string> claims, SigningConfigurations signingConfigurations, TokenConfigurations tokenConfigurations)
+        public static UserResponseToken GetToken(Dictionary<string, string> claims, SigningConfigurations signingConfigurations, TokenConfigurations tokenConfigurations)
         {
             ClaimsIdentity identity = new ClaimsIdentity();
 

@@ -28,6 +28,12 @@ D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMi
 D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.dll
 D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.pdb
 D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.genruntimeconfig.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.csprojAssemblyReference.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.AssemblyInfoInputs.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.AssemblyInfo.cs
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.csproj.CoreCompileInputs.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.RazorAssemblyInfo.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.RazorAssemblyInfo.cs
 D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\bin\Debug\netcoreapp2.1\appsettings.Development.json
 D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\bin\Debug\netcoreapp2.1\appsettings.json
 D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\bin\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.deps.json
@@ -47,12 +53,6 @@ D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMin
 D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\bin\Debug\netcoreapp2.1\VirtualMind.NetTest.Arquitetura.Library.pdb
 D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\bin\Debug\netcoreapp2.1\VirtualMind.NetTest.DAO.pdb
 D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\bin\Debug\netcoreapp2.1\VirtualMind.NetTest.Interfaces.pdb
-D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.csprojAssemblyReference.cache
-D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.AssemblyInfoInputs.cache
-D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.AssemblyInfo.cs
-D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.csproj.CoreCompileInputs.cache
-D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.RazorAssemblyInfo.cache
-D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.RazorAssemblyInfo.cs
 D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.RazorTargetAssemblyInfo.cache
 D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.csproj.CopyComplete
 D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\obj\Debug\netcoreapp2.1\VirtualMind.NetTest.Service.dll
