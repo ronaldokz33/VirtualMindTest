@@ -1,0 +1,54 @@
+<h1 id="tableLabel">New Purchase</h1>
+
+<p></p>
+
+<form [formGroup]="formGroup">
+  <div class="row">
+    <div class="col-md-6">
+      <p>
+        <input
+          matInput
+          class="form-control"
+          placeholder="USER ID"
+          formControlName="userId"
+          required
+        />
+      </p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <p>
+        <input
+          matInput
+          class="form-control"
+          placeholder="CURRENCY"
+          formControlName="currency"
+          required
+        />
+      </p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <p>
+        <input
+          matInput
+          class="form-control"
+          placeholder="AMOUNT"
+          formControlName="amount"
+          required
+        />
+      </p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <p>
+        <button class="btn btn-primary" (click)="createPurchase()">
+          Create
+        </button>
+      </p>
+    </div>
+  </div>
+</form>

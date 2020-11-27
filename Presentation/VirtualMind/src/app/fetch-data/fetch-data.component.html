@@ -1,0 +1,28 @@
+<h1 id="tableLabel">Purchases</h1>
+
+<a class="btn btn-primary" style="float: right"  [routerLink]="['/purchase']">
+  New Purchase
+</a>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+<p *ngIf="!purchases"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="purchases">
+  <thead>
+    <tr>
+      <th>User</th>
+      <th>Date</th>
+      <th>Currency</th>
+      <th>Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let purchase of purchases">
+      <td>{{ purchase.userId }}</td>
+      <td>{{ purchase.createdAt | date }}</td>
+      <td>{{ purchase.currency }}</td>
+      <td>{{ purchase.amount | currency : purchase.currency }}</td>
+    </tr>
+  </tbody>
+</table>
