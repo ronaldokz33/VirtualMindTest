@@ -1,0 +1,486 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Service\\VirtualMind.NetTest.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Data\\VirtualMind.NetTest.Arquitetura.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Data\\VirtualMind.NetTest.Arquitetura.Data.csproj",
+        "projectName": "VirtualMind.NetTest.Arquitetura.Data",
+        "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Data\\VirtualMind.NetTest.Arquitetura.Data.csproj",
+        "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
+        "outputPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Library\\VirtualMind.NetTest.Arquitetura.Library.csproj": {
+                "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Library\\VirtualMind.NetTest.Arquitetura.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Library\\VirtualMind.NetTest.Arquitetura.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Library\\VirtualMind.NetTest.Arquitetura.Library.csproj",
+        "projectName": "VirtualMind.NetTest.Arquitetura.Library",
+        "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Library\\VirtualMind.NetTest.Arquitetura.Library.csproj",
+        "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
+        "outputPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Interfaces\\VirtualMind.NetTest.Interfaces.csproj": {
+                "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Interfaces\\VirtualMind.NetTest.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.BO\\VirtualMind.NetTest.BO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.BO\\VirtualMind.NetTest.BO.csproj",
+        "projectName": "VirtualMind.NetTest.BO",
+        "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.BO\\VirtualMind.NetTest.BO.csproj",
+        "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
+        "outputPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.BO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Data\\VirtualMind.NetTest.Arquitetura.Data.csproj": {
+                "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Data\\VirtualMind.NetTest.Arquitetura.Data.csproj"
+              },
+              "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.DAO\\VirtualMind.NetTest.DAO.csproj": {
+                "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.DAO\\VirtualMind.NetTest.DAO.csproj"
+              },
+              "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Interfaces\\VirtualMind.NetTest.Interfaces.csproj": {
+                "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Interfaces\\VirtualMind.NetTest.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.DAO\\VirtualMind.NetTest.DAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.DAO\\VirtualMind.NetTest.DAO.csproj",
+        "projectName": "VirtualMind.NetTest.DAO",
+        "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.DAO\\VirtualMind.NetTest.DAO.csproj",
+        "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
+        "outputPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.DAO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Library\\VirtualMind.NetTest.Arquitetura.Library.csproj": {
+                "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Arquitetura.Library\\VirtualMind.NetTest.Arquitetura.Library.csproj"
+              },
+              "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\VirtualMind.NetTest.VO.csproj": {
+                "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\VirtualMind.NetTest.VO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Interfaces\\VirtualMind.NetTest.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Interfaces\\VirtualMind.NetTest.Interfaces.csproj",
+        "projectName": "VirtualMind.NetTest.Interfaces",
+        "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Interfaces\\VirtualMind.NetTest.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
+        "outputPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\VirtualMind.NetTest.VO.csproj": {
+                "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\VirtualMind.NetTest.VO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Service\\VirtualMind.NetTest.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Service\\VirtualMind.NetTest.Service.csproj",
+        "projectName": "VirtualMind.NetTest.Service",
+        "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Service\\VirtualMind.NetTest.Service.csproj",
+        "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
+        "outputPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.BO\\VirtualMind.NetTest.BO.csproj": {
+                "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.BO\\VirtualMind.NetTest.BO.csproj"
+              },
+              "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\VirtualMind.NetTest.VO.csproj": {
+                "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\VirtualMind.NetTest.VO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\VirtualMind.NetTest.VO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\VirtualMind.NetTest.VO.csproj",
+        "projectName": "VirtualMind.NetTest.VO",
+        "projectPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\VirtualMind.NetTest.VO.csproj",
+        "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
+        "outputPath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

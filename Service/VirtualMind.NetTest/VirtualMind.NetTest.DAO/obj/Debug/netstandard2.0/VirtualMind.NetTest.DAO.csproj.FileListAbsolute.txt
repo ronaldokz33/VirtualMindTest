@@ -1,0 +1,32 @@
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.DAO.deps.json
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.DAO.dll
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.DAO.pdb
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.dll
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.VO.dll
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.pdb
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.VO.pdb
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.csprojAssemblyReference.cache
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.AssemblyInfoInputs.cache
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.AssemblyInfo.cs
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.csproj.CoreCompileInputs.cache
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.csproj.CopyComplete
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.dll
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.pdb
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.dll
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.DAO.deps.json
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.DAO.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.DAO.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.VO.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.VO.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.csprojAssemblyReference.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.AssemblyInfoInputs.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.AssemblyInfo.cs
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.csproj.CoreCompileInputs.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.csproj.CopyComplete
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.DAO\obj\Debug\netstandard2.0\VirtualMind.NetTest.DAO.pdb

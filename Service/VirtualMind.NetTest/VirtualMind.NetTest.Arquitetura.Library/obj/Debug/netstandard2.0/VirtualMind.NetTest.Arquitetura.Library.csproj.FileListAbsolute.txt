@@ -1,0 +1,37 @@
+D:\WS\Pessoal\Angular\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.AssemblyInfoInputs.cache
+D:\WS\Pessoal\Angular\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.AssemblyInfo.cs
+D:\WS\Pessoal\Angular\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.csproj.CoreCompileInputs.cache
+D:\WS\Pessoal\Angular\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.deps.json
+D:\WS\Pessoal\Angular\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.dll
+D:\WS\Pessoal\Angular\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.pdb
+D:\WS\Pessoal\Angular\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.csprojAssemblyReference.cache
+D:\WS\Pessoal\Angular\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.dll
+D:\WS\Pessoal\Angular\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.pdb
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.deps.json
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.dll
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.pdb
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.csprojAssemblyReference.cache
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.AssemblyInfoInputs.cache
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.AssemblyInfo.cs
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.csproj.CoreCompileInputs.cache
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.dll
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.pdb
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.dll
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.VO.dll
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.pdb
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.VO.pdb
+D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.csproj.CopyComplete
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.deps.json
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.VO.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.Interfaces.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\bin\Debug\netstandard2.0\VirtualMind.NetTest.VO.pdb
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.csprojAssemblyReference.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.AssemblyInfoInputs.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.AssemblyInfo.cs
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.csproj.CoreCompileInputs.cache
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.csproj.CopyComplete
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.dll
+D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Arquitetura.Library\obj\Debug\netstandard2.0\VirtualMind.NetTest.Arquitetura.Library.pdb

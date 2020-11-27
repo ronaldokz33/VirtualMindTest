@@ -1,0 +1,19 @@
+<h1>Quotes</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+<p *ngIf="!quotes"><em>Loading...</em></p>
+
+<table class='table' *ngIf="quotes">
+  <thead>
+    <tr>
+      <th>Currency</th>
+      <th>Rate</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let quote of quotes | keyvalue">
+      <td>{{ quote.key }}</td>
+      <td>{{ quote.value }}</td>
+    </tr>
+  </tbody>
+</table>

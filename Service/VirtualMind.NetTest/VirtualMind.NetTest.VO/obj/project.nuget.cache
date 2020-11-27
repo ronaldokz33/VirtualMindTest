@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CSQkmLFOs8IiugytuXYECkR9wIPhlQPKduepdPGICqLUhjb8ufha5440w7C6twZihkivPaWeBQLU8RkRESCMGA==",
+  "success": true,
+  "projectFilePath": "D:\\WS\\Pessoal\\Angular\\Git\\VirtualMindTest\\Service\\VirtualMind.NetTest\\VirtualMind.NetTest.VO\\VirtualMind.NetTest.VO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ronal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
