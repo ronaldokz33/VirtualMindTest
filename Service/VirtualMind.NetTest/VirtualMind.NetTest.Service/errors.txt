@@ -272,3 +272,381 @@ You have exceeded your purchase limit per month. The USD limit is $48,750.00 pes
    at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
    at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
    at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\VirtualMind\Solution 1 - ADO\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:18:43
+errorCode: 20201127171843
+The limit value per purchase with USD is $16,250.00 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:40:13
+errorCode: 20201127174013
+The limit value per purchase with USD is $16,250.00 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:40:13
+errorCode: 20201127174013
+The limit value per purchase with BRL is $6,093.75 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:40:44
+errorCode: 20201127174044
+The limit value per purchase with USD is $16,250.00 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:40:44
+errorCode: 20201127174044
+The limit value per purchase with BRL is $6,093.75 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:41:45
+errorCode: 20201127174145
+The limit value per purchase with USD is $16,250.00 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:41:46
+errorCode: 20201127174146
+The limit value per purchase with BRL is $6,093.75 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:42:08
+errorCode: 2020112717428
+The limit value per purchase with USD is $16,250.00 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:42:54
+errorCode: 20201127174254
+The limit value per purchase with USD is $16,250.00 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:44:36
+errorCode: 20201127174436
+The limit value per purchase with BRL is $6,093.75 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:44:37
+errorCode: 20201127174437
+The limit value per purchase with USD is $16,250.00 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:46:37
+errorCode: 20201127174637
+You have exceeded your purchase limit per month. The USD limit is $48,750.00 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:46:37
+errorCode: 20201127174637
+The limit value per purchase with BRL is $6,093.75 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:46:37
+errorCode: 20201127174637
+The limit value per purchase with BRL is $6,093.75 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:46:38
+errorCode: 20201127174638
+The limit value per purchase with BRL is $6,093.75 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:46:38
+errorCode: 20201127174638
+The limit value per purchase with BRL is $6,093.75 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:46:39
+errorCode: 20201127174639
+The limit value per purchase with BRL is $6,093.75 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23
+--------------------------
+27/11/2020 05:46:40
+errorCode: 20201127174640
+The limit value per purchase with USD is $16,250.00 pesos
+   at VirtualMind.NetTest.BO.PurchaseBO.Insert(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.BO\PurchaseBO.cs:line 77
+   at VirtualMind.NetTest.Service.Controllers.ExchangeController.Purchase(Purchase pObject) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Controllers\ExchangeController.cs:line 37
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at VirtualMind.NetTest.Service.Middleware.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\WS\Pessoal\Angular\Git\VirtualMindTest\Service\VirtualMind.NetTest\VirtualMind.NetTest.Service\Middleware\ErrorHandlingMiddleware.cs:line 23

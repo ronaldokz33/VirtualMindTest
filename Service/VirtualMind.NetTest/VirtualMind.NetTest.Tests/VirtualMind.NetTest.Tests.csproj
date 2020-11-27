@@ -13,4 +13,9 @@
     <PackageReference Include="coverlet.collector" Version="1.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VirtualMind.NetTest.Arquitetura.Library\VirtualMind.NetTest.Arquitetura.Library.csproj" />
+    <ProjectReference Include="..\VirtualMind.NetTest.VO\VirtualMind.NetTest.VO.csproj" />
+  </ItemGroup>
+
 </Project>

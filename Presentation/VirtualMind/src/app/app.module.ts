@@ -10,6 +10,7 @@ import { HomeComponent } from './home/home.component';
 import { PurchaseComponent } from './purchase/purchase.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { QuoteComponent } from './quote/quote.component';
+import { LoaderModule } from './loader/loader.module';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { QuoteComponent } from './quote/quote.component';
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
     HttpClientModule,
     FormsModule,
+    LoaderModule,
     ReactiveFormsModule,
     RouterModule.forRoot([
       { path: '', component: HomeComponent, pathMatch: 'full' },
