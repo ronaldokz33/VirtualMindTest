@@ -112,7 +112,7 @@ namespace VirtualMind.NetTest.BO
 
             if (apiRequestSettings.realRateApi != "")
             {
-                currency["BRL"] = request.Get<decimal>(apiRequestSettings.baseUrl);
+                currency["BRL"] = request.Get<decimal>(apiRequestSettings.realRateApi);
             }
 
             if (currency?.Count > 0)
