@@ -11,6 +11,7 @@ import { PurchaseComponent } from './purchase/purchase.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { QuoteComponent } from './quote/quote.component';
 import { LoaderModule } from './loader/loader.module';
+import { InterceptorModule } from './loader/interceptor.module';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { LoaderModule } from './loader/loader.module';
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
     HttpClientModule,
     FormsModule,
+    InterceptorModule,
     LoaderModule,
     ReactiveFormsModule,
     RouterModule.forRoot([

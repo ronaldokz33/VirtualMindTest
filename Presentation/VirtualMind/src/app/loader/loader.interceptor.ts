@@ -6,11 +6,13 @@ import { finalize } from 'rxjs/operators';
 
 @Injectable()
 export class LoaderInterceptor implements HttpInterceptor {
-  constructor(public loaderService: LoaderService) { }
+
+
+  constructor(public loaderService: LoaderService) { console.log('LoaderInterceptor'); }
 
   intercept(req: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
     this.loaderService.show();
-
+    console.log('intercept');
     return next.handle(req).pipe(finalize(() => this.loaderService.hide()));
   }
 }
